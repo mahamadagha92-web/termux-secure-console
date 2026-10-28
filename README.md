@@ -16,7 +16,7 @@ apt update && apt upgrade -y
 To clone and set up this console environment in Termux, run:
 
 ```bash
-git clone https://github.com/mahamadagha92-web/termux-secure-console.git
+git clone https://github.com/mita4protection/termux-secure-console.git
 
 cd termux-secure-console
 ```
